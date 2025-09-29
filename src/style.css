@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.Container{
+font-family: Poppins, sans-serif;
+box-sizing: border-box;
+padding: 40px 40px 60px 40px; 
+background-color : #065F46;
+}
+
+
+.Container2{
+font-family: Poppins, sans-serif;
+box-sizing: border-box; 
+padding: 20px;
+background-color : #F3F4F6;
+}
